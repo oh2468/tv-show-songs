@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# my todo list
+TODO.txt
+
+# my test file
+test.py
+
+# the database files
+*.db
+
+# the exported csv with the database content
+*.csv
